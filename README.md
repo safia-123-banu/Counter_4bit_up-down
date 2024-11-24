@@ -49,7 +49,8 @@
       
 &emsp;&emsp;After this you can see the window like below <br>
 <br>
-![Picture8](https://github.com/user-attachments/assets/dcc1bb24-5e2d-4f1b-96d0-f410f4f2b0c1)
+![Screenshot 2024-10-04 195643](https://github.com/user-attachments/assets/7cd5bb9f-585d-4b03-ad08-e9965ab4628e)
+
 
 <br>
 
@@ -123,7 +124,8 @@ endmodule
 &emsp;&emsp;It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step<br>
 <br>
 
-![Picture9](https://github.com/user-attachments/assets/29ee2e8a-792b-4c3f-a1ab-893d4a330563)
+![Screenshot 2024-10-04 195714](https://github.com/user-attachments/assets/e7fbe171-f225-4a95-b742-91a0f44b5a01)
+
 
 <br>
 
@@ -135,7 +137,8 @@ endmodule
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option<br>
 <br>
 
-![Screenshot 2024-10-05 093852](https://github.com/user-attachments/assets/91ad3198-0259-4aee-8cad-88454481ac20)
+![Screenshot 2024-10-04 195727](https://github.com/user-attachments/assets/1ad104a3-7b5d-4f1f-951e-94253911d196)
+
 
 <br>
 
@@ -149,7 +152,8 @@ endmodule
 &emsp;&emsp;We are simulating verilog design without using any libraries<br>
 <br>
 
-![Screenshot 2024-10-05 093943](https://github.com/user-attachments/assets/73f0d852-861a-49b0-9ee9-dcdc79ab8686)
+![Screenshot 2024-10-04 195739](https://github.com/user-attachments/assets/99c232a6-8144-402f-b4a7-71597209ff87)
+
 
 <br>
 
